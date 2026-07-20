@@ -26,7 +26,7 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [Escape from Tarkov (2025)](#escape-from-tarkov-2025)
     * [Goddess of Victory: Nikke (2022)](#goddess-of-victory-nikke-2022)
     * [Genshin Impact (2020)](#genshin-impact-2020)
-    * [Girls' Frontline 2: Exilium](#girls-frontline-2-exilium)
+    * [Girls' Frontline 2: Exilium (2023)](#girls-frontline-2-exilium-2023)
     * [Honkai Impact 3rd (2016)](#honkai-impact-3rd-2016)
     * [Honkai: Star Rail (2023)](#honkai-star-rail-2023)
     * [Minecraft (2009)](#minecraft-2009)
@@ -180,7 +180,7 @@ Different server implementations will be categorized by the games that they're u
 
 ---
 
-### Girls' Frontline 2: Exilium
+### Girls' Frontline 2: Exilium (2023)
 
 > [!NOTE]
 > Developed by MICA Team. Published by Darkwinter in China, North America, Australasia and Ireland, HaoPlay in the European Union, United Kingdom, Japan, South Korea and Taiwan, and THS Game in Vietnam.
