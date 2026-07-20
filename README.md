@@ -26,6 +26,7 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [Escape from Tarkov (2025)](#escape-from-tarkov-2025)
     * [Goddess of Victory: Nikke (2022)](#goddess-of-victory-nikke-2022)
     * [Genshin Impact (2020)](#genshin-impact-2020)
+    * [Girls' Frontline 2: Exilium](#girls-frontline-2-exilium)
     * [Honkai Impact 3rd (2016)](#honkai-impact-3rd-2016)
     * [Honkai: Star Rail (2023)](#honkai-star-rail-2023)
     * [Minecraft (2009)](#minecraft-2009)
@@ -179,6 +180,15 @@ Different server implementations will be categorized by the games that they're u
 
 ---
 
+### Girls' Frontline 2: Exilium
+
+> [!NOTE]
+> Developed by MICA Team. Published by Darkwinter in China, North America, Australasia and Ireland, HaoPlay in the European Union, United Kingdom, Japan, South Korea and Taiwan, and THS Game in Vietnam.
+
+* 🟩 [NTRSimulator](https://github.com/raphaeIl/NTRSimulator) `C#/ARR`
+
+---
+
 ### Honkai Impact 3rd (2016)
 
 > [!NOTE]
@@ -197,7 +207,7 @@ Different server implementations will be categorized by the games that they're u
 * 🟥 [DanhengServer](https://github.com/EggLinks/DanhengServer-OpenSource) `C#/AGPL-3.0` ([available fork](https://github.com/DB-Sky/DanhengServer-OpenSource))
     * 🟥 [HyacineDH-3.8](https://github.com/DBKAHHK/HyacineDH-3.8)
     * 🟥 [HyacineDH-Core](https://github.com/DBKAHHK/HyacineDH-Core)
-    * 🟧 [March7thHoney](https://github.com/Mar7thLover/March7thHoney-OpenSource)
+    * 🟥 [March7thHoney](https://github.com/Mar7thLover/March7thHoney-OpenSource)
 * 🟩 [KazusaHSR_0.56](https://github.com/Hiro420/KazusaHSR_0.56) `C#/AGPL-3.0`
 * 🟥 [Eileen-SR](https://git.xeondev.com/eileen-sr/eileen-sr) `Zig/ARR`
 * 🟥 [LunarCore](https://github.com/Melledy/LunarCore) `Java/AGPL-3.0`
