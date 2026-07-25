@@ -312,7 +312,8 @@ Different server implementations will be categorized by the games that they're u
 > [!NOTE]
 > Developed by miHoYo. Published by miHoYo in China and HoYoverse worldwide.
 
-* 🟩 [Yoshunko](https://git.xeondev.com/yoshunko/yoshunko) `Zig/AGPL-3.0`
+* 🟥 [Yoshunko](https://git.xeondev.com/yoshunko/yoshunko) `Zig/AGPL-3.0`
+    * 🟩 [Remielle](https://github.com/thexeondev/remielle) `Zig/AGPL-3.0`
 
 ---
 
