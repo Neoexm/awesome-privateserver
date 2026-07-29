@@ -126,6 +126,7 @@ Different server implementations will be categorized by the games that they're u
 
 * 🟥 [Atrahasis (archived)](https://archive.org/details/Atrahasis) `C#/ARR`
 * 🟥 [BaPs](https://github.com/gucooing/BaPs) `Go/ARR`
+* 🟥 [Shittim-Server](https://github.com/Neoexm/Shittim-Server) `C#/ARR`
 
 ---
 
